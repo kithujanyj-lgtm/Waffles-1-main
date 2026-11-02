@@ -76,32 +76,6 @@ h4 {
                 flex-shrink: 0;
             }
 
- ::-webkit-scrollbar {
-    width: 12px;
-}
-
-::-webkit-scrollbar-track {
-    background: rgb(245, 214, 156);
-    border-radius: 10px;
-}
-
-::-webkit-scrollbar-thumb {
-    background: rgb(160, 95, 45);
-    border-radius: 10px;
-    border: 2px solid rgb(245, 214, 156);
-}
-
-::-webkit-scrollbar-thumb:hover {
-    background: rgb(120, 65, 30);
-}
-
-  html {
-   scroll-behavior: smooth;
-   scrollbar-color: rgb(100, 65, 40);
-   scrollbar-width: thin;
-}
-
-
 .steps-container {
     display: flex;
     align-items: center;

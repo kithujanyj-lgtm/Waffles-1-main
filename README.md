@@ -1,4 +1,6 @@
+# About
 Website about waffles I modified  for the Hack Club contd. program! 
+
 Original project by Brandon Sande
 Original repo:https://github.com/0718083803/Waffles_1
 Original demo:https://0718083803.github.io/Waffles_1/
@@ -30,3 +32,9 @@ My demo: https://kithujanyj-lgtm.github.io/Waffles-1-main/index.html
 <img width="1006" height="897" alt="image" src="https://github.com/user-attachments/assets/96bd0de0-912d-4ed6-8383-b0e41a28a33d" />
 <img width="937" height="822" alt="image" src="https://github.com/user-attachments/assets/0377c197-7548-44a4-b5fc-a14d324b7d25" />
 
+## To run website
+1. clone repo code
+2. unzipe folder and look for index.html
+3. click open index.html
+
+or follow this demo link: https://kithujanyj-lgtm.github.io/Waffles-1-main/index.html
